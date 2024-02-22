@@ -20,7 +20,7 @@ const socials = [
   },
   {
     icon: faLinkedin,
-    url: "#",
+    url: "https://www.linkedin.com/",
   },
   {
     icon: faMedium,
